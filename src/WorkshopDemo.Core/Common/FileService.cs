@@ -1,6 +1,6 @@
 ﻿namespace WorkshopDemo.Core.Common;
 
-public interface IFileService
+publish interface IFileService
 {
     string GetFileContents(string fileName);
 }
